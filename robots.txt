@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://namesanas.me/sitemap.xml
+Sitemap: https://freelance.namesanas.me/sitemap.xml
